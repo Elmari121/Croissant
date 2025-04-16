@@ -1,5 +1,5 @@
 body {
-    background-color: #fff3e6;
+  background: radial-gradient(859px at 10% 20%, rgb(245, 220, 154) 0%, rgb(164, 78, 51) 90%);
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 40px;
@@ -15,3 +15,25 @@ body {
     margin: 0 10px;
   }
   img{margin-top: 20px;}
+
+  footer {
+    background-color: #f8f1e7; 
+    color: #5c3c2d;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 0.95rem;
+    margin-top: 40px;
+    border-top: 2px solid  #e8d5b7;
+  }
+  
+  footer a {
+    color: #a05a2c;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+    color: #7a3f1c;
+  }
+  
